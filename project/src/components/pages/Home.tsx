@@ -70,38 +70,6 @@ const assessments = [
     icon: Rocket,
     color: 'blue' as const,
     link: '/clusters'
-  },
-  {
-    id: 'values',
-    title: 'Values Assessment',
-    description: 'Identify your core work values and find career paths that align with your personal and professional principles.',
-    icon: Lightbulb,
-    color: 'blue' as const,
-    link: '/coming-soon'
-  },
-  {
-    id: 'skills',
-    title: 'Skills Assessment',
-    description: 'Evaluate your technical and soft skills to identify strengths and areas for professional development.',
-    icon: Briefcase,
-    color: 'purple' as const,
-    link: '/coming-soon'
-  },
-  {
-    id: 'aptitude',
-    title: 'Aptitude Test',
-    description: 'Measure your natural abilities and potential for success in different career fields.',
-    icon: GraduationCap,
-    color: 'green' as const,
-    link: '/coming-soon'
-  },
-  {
-    id: 'mmpi',
-    title: 'MMPI Assessment',
-    description: 'Comprehensive personality assessment using the Minnesota Multiphasic Personality Inventory methodology.',
-    icon: Microscope,
-    color: 'orange' as const,
-    link: '/coming-soon'
   }
 ];
 
